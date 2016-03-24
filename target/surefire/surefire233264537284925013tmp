@@ -1,0 +1,8 @@
+#surefire
+#Thu Mar 24 16:39:27 CET 2016
+maven.ext.class.path=E\:\\NETBEANS\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Anom\\Desktop\\sch\\java2\\Education
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Anom\\.m2\\repository
+basedir=C\:\\Users\\Anom\\Desktop\\sch\\java2\\Education
+test=cz.muni.fi.education.StudentManagerImplTest

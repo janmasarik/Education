@@ -1,0 +1,12 @@
+#surefire
+#Thu Mar 24 16:39:12 CET 2016
+jpda.address=49991
+maven.ext.class.path=E\:\\NETBEANS\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=C\:\\Users\\Anom\\Desktop\\sch\\java2\\Education
+localRepository=C\:\\Users\\Anom\\.m2\\repository
+test=cz.muni.fi.education.StudentManagerImplTest
+basedir=C\:\\Users\\Anom\\Desktop\\sch\\java2\\Education
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=49991
